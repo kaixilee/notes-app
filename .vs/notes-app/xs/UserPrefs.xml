@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{C0B31DA9-6294-4FDB-BA90-FBC2CB3C0B01}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/NotesController.cs">
+    <Files>
+      <File FileName="Program.cs" Line="8" Column="27" />
+      <File FileName="Controllers/NotesController.cs" Line="11" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="notes-app" expanded="True">
+            <Node name="notes-app" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="NotesController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.notes-app PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
